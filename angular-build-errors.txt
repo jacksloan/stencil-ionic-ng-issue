@@ -1,0 +1,735 @@
+Error: src/app/stencil-library/generated/proxies.ts:11:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonAccordion'.
+
+11 export declare interface IonAccordion extends Components.IonAccordion {}
+                                                            ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:31:15 - error TS2305: Module '"stencil-library"' has no exported member 'AccordionGroupChangeEventDetail'.
+
+31 import type { AccordionGroupChangeEventDetail as IAccordionGroupAccordionGroupChangeEventDetail } from 'stencil-library';
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:32:63 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonAccordionGroup'.
+
+32 export declare interface IonAccordionGroup extends Components.IonAccordionGroup {
+                                                                 ~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:59:15 - error TS2305: Module '"stencil-library"' has no exported member 'OverlayEventDetail'.
+
+59 import type { OverlayEventDetail as IActionSheetOverlayEventDetail } from 'stencil-library';
+                 ~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:60:60 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonActionSheet'.
+
+60 export declare interface IonActionSheet extends Components.IonActionSheet {
+                                                              ~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:100:15 - error TS2305: Module '"stencil-library"' has no exported member 'OverlayEventDetail'.
+
+100 import type { OverlayEventDetail as IAlertOverlayEventDetail } from 'stencil-library';
+                  ~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:101:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonAlert'.
+
+101 export declare interface IonAlert extends Components.IonAlert {
+                                                         ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:142:52 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonApp'.
+
+142 export declare interface IonApp extends Components.IonApp {}
+                                                       ~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:161:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonAvatar'.
+
+161 export declare interface IonAvatar extends Components.IonAvatar {}
+                                                          ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:180:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonBackButton'.
+
+180 export declare interface IonBackButton extends Components.IonBackButton {}
+                                                              ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:201:57 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonBackdrop'.
+
+201 export declare interface IonBackdrop extends Components.IonBackdrop {
+                                                            ~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:229:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonBadge'.
+
+229 export declare interface IonBadge extends Components.IonBadge {}
+                                                         ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:250:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonBreadcrumb'.
+
+250 export declare interface IonBreadcrumb extends Components.IonBreadcrumb {
+                                                              ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:281:15 - error TS2305: Module '"stencil-library"' has no exported member 'BreadcrumbCollapsedClickEventDetail'.
+
+281 import type { BreadcrumbCollapsedClickEventDetail as IBreadcrumbsBreadcrumbCollapsedClickEventDetail } from 'stencil-library';
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:282:60 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonBreadcrumbs'.
+
+282 export declare interface IonBreadcrumbs extends Components.IonBreadcrumbs {
+                                                               ~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:310:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonButton'.
+
+310 export declare interface IonButton extends Components.IonButton {
+                                                          ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:342:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonButtons'.
+
+342 export declare interface IonButtons extends Components.IonButtons {}
+                                                           ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:363:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonCard'.
+
+363 export declare interface IonCard extends Components.IonCard {}
+                                                        ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:384:60 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonCardContent'.
+
+384 export declare interface IonCardContent extends Components.IonCardContent {}
+                                                               ~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:403:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonCardHeader'.
+
+403 export declare interface IonCardHeader extends Components.IonCardHeader {}
+                                                              ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:424:61 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonCardSubtitle'.
+
+424 export declare interface IonCardSubtitle extends Components.IonCardSubtitle {}
+                                                                ~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:445:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonCardTitle'.
+
+445 export declare interface IonCardTitle extends Components.IonCardTitle {}
+                                                             ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:465:15 - error TS2305: Module '"stencil-library"' has no exported member 'CheckboxChangeEventDetail'.
+
+465 import type { CheckboxChangeEventDetail as ICheckboxCheckboxChangeEventDetail } from 'stencil-library';
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:466:57 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonCheckbox'.
+
+466 export declare interface IonCheckbox extends Components.IonCheckbox {
+                                                            ~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:502:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonChip'.
+
+502 export declare interface IonChip extends Components.IonChip {}
+                                                        ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:523:52 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonCol'.
+
+523 export declare interface IonCol extends Components.IonCol {}
+                                                       ~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:543:15 - error TS2305: Module '"stencil-library"' has no exported member 'ScrollBaseDetail'.
+
+543 import type { ScrollBaseDetail as IContentScrollBaseDetail } from 'stencil-library';
+                  ~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:544:15 - error TS2305: Module '"stencil-library"' has no exported member 'ScrollDetail'.
+
+544 import type { ScrollDetail as IContentScrollDetail } from 'stencil-library';
+                  ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:545:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonContent'.
+
+545 export declare interface IonContent extends Components.IonContent {
+                                                           ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:584:15 - error TS2305: Module '"stencil-library"' has no exported member 'DatetimeChangeEventDetail'.
+
+584 import type { DatetimeChangeEventDetail as IDatetimeDatetimeChangeEventDetail } from 'stencil-library';
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:585:57 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonDatetime'.
+
+585 export declare interface IonDatetime extends Components.IonDatetime {
+                                                            ~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:626:52 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonFab'.
+
+626 export declare interface IonFab extends Components.IonFab {}
+                                                       ~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:648:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonFabButton'.
+
+648 export declare interface IonFabButton extends Components.IonFabButton {
+                                                             ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:680:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonFabList'.
+
+680 export declare interface IonFabList extends Components.IonFabList {}
+                                                           ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:701:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonFooter'.
+
+701 export declare interface IonFooter extends Components.IonFooter {}
+                                                          ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:722:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonGrid'.
+
+722 export declare interface IonGrid extends Components.IonGrid {}
+                                                        ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:743:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonHeader'.
+
+743 export declare interface IonHeader extends Components.IonHeader {}
+                                                          ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:764:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonIcon'.
+
+764 export declare interface IonIcon extends Components.IonIcon {}
+                                                        ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:785:52 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonImg'.
+
+785 export declare interface IonImg extends Components.IonImg {
+                                                       ~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:821:63 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonInfiniteScroll'.
+
+821 export declare interface IonInfiniteScroll extends Components.IonInfiniteScroll {
+                                                                  ~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:853:70 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonInfiniteScrollContent'.
+
+853 export declare interface IonInfiniteScrollContent extends Components.IonInfiniteScrollContent {}
+                                                                         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:873:15 - error TS2305: Module '"stencil-library"' has no exported member 'InputChangeEventDetail'.
+
+873 import type { InputChangeEventDetail as IInputInputChangeEventDetail } from 'stencil-library';
+                  ~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:874:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonInput'.
+
+874 export declare interface IonInput extends Components.IonInput {
+                                                         ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:915:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonItem'.
+
+915 export declare interface IonItem extends Components.IonItem {}
+                                                        ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:936:60 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonItemDivider'.
+
+936 export declare interface IonItemDivider extends Components.IonItemDivider {}
+                                                               ~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:957:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonItemGroup'.
+
+957 export declare interface IonItemGroup extends Components.IonItemGroup {}
+                                                             ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:976:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonItemOption'.
+
+976 export declare interface IonItemOption extends Components.IonItemOption {}
+                                                              ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:997:60 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonItemOptions'.
+
+997 export declare interface IonItemOptions extends Components.IonItemOptions {
+                                                               ~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1025:60 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonItemSliding'.
+
+1025 export declare interface IonItemSliding extends Components.IonItemSliding {
+                                                                ~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1054:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonLabel'.
+
+1054 export declare interface IonLabel extends Components.IonLabel {}
+                                                          ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1075:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonList'.
+
+1075 export declare interface IonList extends Components.IonList {}
+                                                         ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1097:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonListHeader'.
+
+1097 export declare interface IonListHeader extends Components.IonListHeader {}
+                                                               ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1117:15 - error TS2305: Module '"stencil-library"' has no exported member 'OverlayEventDetail'.
+
+1117 import type { OverlayEventDetail as ILoadingOverlayEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1118:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonLoading'.
+
+1118 export declare interface IonLoading extends Components.IonLoading {
+                                                            ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1159:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonMenu'.
+
+1159 export declare interface IonMenu extends Components.IonMenu {
+                                                         ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1200:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonMenuButton'.
+
+1200 export declare interface IonMenuButton extends Components.IonMenuButton {}
+                                                               ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1221:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonMenuToggle'.
+
+1221 export declare interface IonMenuToggle extends Components.IonMenuToggle {}
+                                                               ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1241:15 - error TS2305: Module '"stencil-library"' has no exported member 'OverlayEventDetail'.
+
+1241 import type { OverlayEventDetail as IModalOverlayEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1242:15 - error TS2305: Module '"stencil-library"' has no exported member 'ModalBreakpointChangeEventDetail'.
+
+1242 import type { ModalBreakpointChangeEventDetail as IModalModalBreakpointChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1243:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonModal'.
+
+1243 export declare interface IonModal extends Components.IonModal {
+                                                          ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1308:52 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonNav'.
+
+1308 export declare interface IonNav extends Components.IonNav {
+                                                        ~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1341:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonNavLink'.
+
+1341 export declare interface IonNavLink extends Components.IonNavLink {}
+                                                            ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1362:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonNote'.
+
+1362 export declare interface IonNote extends Components.IonNote {}
+                                                         ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1382:15 - error TS2305: Module '"stencil-library"' has no exported member 'OverlayEventDetail'.
+
+1382 import type { OverlayEventDetail as IPickerOverlayEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1383:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonPicker'.
+
+1383 export declare interface IonPicker extends Components.IonPicker {
+                                                           ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1424:61 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonPickerColumn'.
+
+1424 export declare interface IonPickerColumn extends Components.IonPickerColumn {}
+                                                                 ~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1444:15 - error TS2305: Module '"stencil-library"' has no exported member 'PickerColumnItem'.
+
+1444 import type { PickerColumnItem as IPickerColumnInternalPickerColumnItem } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1445:69 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonPickerColumnInternal'.
+
+1445 export declare interface IonPickerColumnInternal extends Components.IonPickerColumnInternal {
+                                                                         ~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1472:15 - error TS2305: Module '"stencil-library"' has no exported member 'PickerInternalChangeEventDetail'.
+
+1472 import type { PickerInternalChangeEventDetail as IPickerInternalPickerInternalChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1473:63 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonPickerInternal'.
+
+1473 export declare interface IonPickerInternal extends Components.IonPickerInternal {
+                                                                   ~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1498:15 - error TS2305: Module '"stencil-library"' has no exported member 'OverlayEventDetail'.
+
+1498 import type { OverlayEventDetail as IPopoverOverlayEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1499:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonPopover'.
+
+1499 export declare interface IonPopover extends Components.IonPopover {
+                                                            ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1560:60 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonProgressBar'.
+
+1560 export declare interface IonProgressBar extends Components.IonProgressBar {}
+                                                                ~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1581:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRadio'.
+
+1581 export declare interface IonRadio extends Components.IonRadio {
+                                                          ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1612:15 - error TS2305: Module '"stencil-library"' has no exported member 'RadioGroupChangeEventDetail'.
+
+1612 import type { RadioGroupChangeEventDetail as IRadioGroupRadioGroupChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1613:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRadioGroup'.
+
+1613 export declare interface IonRadioGroup extends Components.IonRadioGroup {
+                                                               ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1640:15 - error TS2305: Module '"stencil-library"' has no exported member 'RangeChangeEventDetail'.
+
+1640 import type { RangeChangeEventDetail as IRangeRangeChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1641:15 - error TS2305: Module '"stencil-library"' has no exported member 'RangeKnobMoveStartEventDetail'.
+
+1641 import type { RangeKnobMoveStartEventDetail as IRangeRangeKnobMoveStartEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1642:15 - error TS2305: Module '"stencil-library"' has no exported member 'RangeKnobMoveEndEventDetail'.
+
+1642 import type { RangeKnobMoveEndEventDetail as IRangeRangeKnobMoveEndEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1643:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRange'.
+
+1643 export declare interface IonRange extends Components.IonRange {
+                                                          ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1688:15 - error TS2305: Module '"stencil-library"' has no exported member 'RefresherEventDetail'.
+
+1688 import type { RefresherEventDetail as IRefresherRefresherEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1689:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRefresher'.
+
+1689 export declare interface IonRefresher extends Components.IonRefresher {
+                                                              ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1729:65 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRefresherContent'.
+
+1729 export declare interface IonRefresherContent extends Components.IonRefresherContent {}
+                                                                     ~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1750:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonReorder'.
+
+1750 export declare interface IonReorder extends Components.IonReorder {}
+                                                            ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1768:15 - error TS2305: Module '"stencil-library"' has no exported member 'ItemReorderEventDetail'.
+
+1768 import type { ItemReorderEventDetail as IReorderGroupItemReorderEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1769:61 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonReorderGroup'.
+
+1769 export declare interface IonReorderGroup extends Components.IonReorderGroup {
+                                                                 ~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1800:61 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRippleEffect'.
+
+1800 export declare interface IonRippleEffect extends Components.IonRippleEffect {}
+                                                                 ~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1822:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRoute'.
+
+1822 export declare interface IonRoute extends Components.IonRoute {
+                                                          ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1850:62 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRouteRedirect'.
+
+1850 export declare interface IonRouteRedirect extends Components.IonRouteRedirect {
+                                                                  ~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1880:15 - error TS2305: Module '"stencil-library"' has no exported member 'RouterEventDetail'.
+
+1880 import type { RouterEventDetail as IRouterRouterEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1881:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRouter'.
+
+1881 export declare interface IonRouter extends Components.IonRouter {
+                                                           ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1914:59 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRouterLink'.
+
+1914 export declare interface IonRouterLink extends Components.IonRouterLink {}
+                                                               ~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1935:61 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRouterOutlet'.
+
+1935 export declare interface IonRouterOutlet extends Components.IonRouterOutlet {}
+                                                                 ~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1956:52 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonRow'.
+
+1956 export declare interface IonRow extends Components.IonRow {}
+                                                        ~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1974:15 - error TS2305: Module '"stencil-library"' has no exported member 'SearchbarChangeEventDetail'.
+
+1974 import type { SearchbarChangeEventDetail as ISearchbarSearchbarChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:1975:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSearchbar'.
+
+1975 export declare interface IonSearchbar extends Components.IonSearchbar {
+                                                              ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2023:15 - error TS2305: Module '"stencil-library"' has no exported member 'SegmentChangeEventDetail'.
+
+2023 import type { SegmentChangeEventDetail as ISegmentSegmentChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2024:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSegment'.
+
+2024 export declare interface IonSegment extends Components.IonSegment {
+                                                            ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2053:62 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSegmentButton'.
+
+2053 export declare interface IonSegmentButton extends Components.IonSegmentButton {}
+                                                                  ~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2073:15 - error TS2305: Module '"stencil-library"' has no exported member 'SelectChangeEventDetail'.
+
+2073 import type { SelectChangeEventDetail as ISelectSelectChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2074:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSelect'.
+
+2074 export declare interface IonSelect extends Components.IonSelect {
+                                                           ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2119:61 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSelectOption'.
+
+2119 export declare interface IonSelectOption extends Components.IonSelectOption {}
+                                                                 ~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2140:62 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSelectPopover'.
+
+2140 export declare interface IonSelectPopover extends Components.IonSelectPopover {}
+                                                                  ~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2161:61 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSkeletonText'.
+
+2161 export declare interface IonSkeletonText extends Components.IonSkeletonText {}
+                                                                 ~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2182:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSlide'.
+
+2182 export declare interface IonSlide extends Components.IonSlide {}
+                                                          ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2201:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSlides'.
+
+2201 export declare interface IonSlides extends Components.IonSlides {
+                                                           ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2290:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSpinner'.
+
+2290 export declare interface IonSpinner extends Components.IonSpinner {}
+                                                            ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2311:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonSplitPane'.
+
+2311 export declare interface IonSplitPane extends Components.IonSplitPane {
+                                                              ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2339:52 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonTab'.
+
+2339 export declare interface IonTab extends Components.IonTab {}
+                                                        ~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2361:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonTabBar'.
+
+2361 export declare interface IonTabBar extends Components.IonTabBar {}
+                                                           ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2382:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonTabButton'.
+
+2382 export declare interface IonTabButton extends Components.IonTabButton {}
+                                                              ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2403:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonTabs'.
+
+2403 export declare interface IonTabs extends Components.IonTabs {
+                                                         ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2434:53 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonText'.
+
+2434 export declare interface IonText extends Components.IonText {}
+                                                         ~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2454:15 - error TS2305: Module '"stencil-library"' has no exported member 'TextareaChangeEventDetail'.
+
+2454 import type { TextareaChangeEventDetail as ITextareaTextareaChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2455:57 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonTextarea'.
+
+2455 export declare interface IonTextarea extends Components.IonTextarea {
+                                                             ~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2496:58 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonThumbnail'.
+
+2496 export declare interface IonThumbnail extends Components.IonThumbnail {}
+                                                              ~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2515:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonTitle'.
+
+2515 export declare interface IonTitle extends Components.IonTitle {}
+                                                          ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2535:15 - error TS2305: Module '"stencil-library"' has no exported member 'OverlayEventDetail'.
+
+2535 import type { OverlayEventDetail as IToastOverlayEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2536:54 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonToast'.
+
+2536 export declare interface IonToast extends Components.IonToast {
+                                                          ~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2576:15 - error TS2305: Module '"stencil-library"' has no exported member 'ToggleChangeEventDetail'.
+
+2576 import type { ToggleChangeEventDetail as IToggleToggleChangeEventDetail } from 'stencil-library';
+                   ~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2577:55 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonToggle'.
+
+2577 export declare interface IonToggle extends Components.IonToggle {
+                                                           ~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2613:56 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonToolbar'.
+
+2613 export declare interface IonToolbar extends Components.IonToolbar {}
+                                                            ~~~~~~~~~~
+
+
+Error: src/app/stencil-library/generated/proxies.ts:2634:62 - error TS2694: Namespace '"/Users/johnsloan/dev/git/stencil-ionic-ng/stencil-library/dist/types/components".Components' has no exported member 'IonVirtualScroll'.
+
+2634 export declare interface IonVirtualScroll extends Components.IonVirtualScroll {}

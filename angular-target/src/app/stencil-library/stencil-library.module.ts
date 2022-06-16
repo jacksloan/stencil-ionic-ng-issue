@@ -1,12 +1,10 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
-
+import { DIRECTIVES } from './generated';
 
 @NgModule({
-  declarations: [],
-  imports: [
-    CommonModule
-  ]
+  declarations: [...DIRECTIVES],
+  exports: [...DIRECTIVES],
+  imports: [CommonModule],
 })
-export class StencilLibraryModule { }
+export class StencilLibraryModule {}
