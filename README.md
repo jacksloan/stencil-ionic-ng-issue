@@ -23,9 +23,9 @@ See [angular-build-errors.png](./angular-build-errors.png) or [angular-build-err
 Need a way to exclude ionic component types from being generated in the angular output.
 When commented out, the Angular builds work and the generated component works.
 
-## Workaround
+## Possible workaround?
 
-It possible (but tedious) to remove the ionic specific types and proxy classes in the following generated files:
+It appears possible (but tedious) to remove the ionic specific types and proxy classes in the following generated files:
 
 - [./angular-target/src/app/stencil-library/generated/proxies.ts](https://github.com/jacksloan/stencil-ionic-ng-issue/blob/ea0c13c26c728e0145d8eed6225349d92f306f45/angular-target/src/app/stencil-library/generated/proxies.ts)
 
