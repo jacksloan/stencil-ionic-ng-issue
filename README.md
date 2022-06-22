@@ -27,6 +27,6 @@ When commented out, the Angular builds work and the generated component works.
 
 It possible (but tedious) to remove the ionic specific types and proxy classes in the following generated files:
 
-- [./angular-target/src/app/stencil-library/generated/angular-component-lib/utils.ts]([https://github.com/jacksloan/stencil-ionic-ng-issue/blob/main/angular-target/src/app/stencil-library/generated/angular-component-lib/utils.ts](https://github.com/jacksloan/stencil-ionic-ng-issue/blob/e75e90c4c56c4ed876f230bd31f02a033ca161bd/angular-target/src/app/stencil-library/generated/angular-component-lib/utils.ts)
+- [./angular-target/src/app/stencil-library/generated/angular-component-lib/utils.ts](https://github.com/jacksloan/stencil-ionic-ng-issue/blob/main/angular-target/src/app/stencil-library/generated/angular-component-lib/utils.ts](https://github.com/jacksloan/stencil-ionic-ng-issue/blob/e75e90c4c56c4ed876f230bd31f02a033ca161bd/angular-target/src/app/stencil-library/generated/angular-component-lib/utils.ts)
 
 - [./angular-target/src/app/stencil-library/generated/index.ts](https://github.com/jacksloan/stencil-ionic-ng-issue/blob/e75e90c4c56c4ed876f230bd31f02a033ca161bd/angular-target/src/app/stencil-library/generated/index.ts)
